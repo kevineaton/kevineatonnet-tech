@@ -1,0 +1,58 @@
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: "Software Engineering"
+  filter: "software-engineering"
+- name: "Psychology"
+  filter: "psychology"
+
+publications:
+- title: "Crisis Management and Peer Support"
+  publishedIn:
+    name: Liberty Baptist Theological Seminary (Doctoral Dissertation)
+    date: 2024
+    url: "https://www.researchgate.net/profile/Kevin-Eaton-4"
+  authors:
+  - name: Kevin Eaton, PhD
+    url: "https://tech.kevineaton.net"
+  paper:
+    summary: "This mixed-methods Doctor of Ministry Research Project examined peers' roles during crisis management situations and sought to improve their knowledge, skills, readiness, and confidence during crises. Peers are often the first to see precursors of a crisis or are the first present when a crisis ensues. This was true in the ministry context of a United States Army Reserve unit. A training program was developed to equip participants on crisis precursor identification, prevention, intervention, stabilization, post-intervention, and normalization concepts and techniques. Additionally, ethical consideration, professional resources, and resiliency concepts were trained. The concepts were delivered via an online web-based platform for asynchronous participation. The twelve participants reported improved confidence and knowledge of the presented topics. The participants reported that they better understood how to manage the crisis management cycle and were more confident aiding peers in crisis. The research results improved the local ministry context's crisis management support and can be applied in other contexts."
+    url: "https://www.researchgate.net/profile/Kevin-Eaton-4"
+  categories: ["psychology"]
+  tags: ["Psychology", "Counseling", "Education", "Research"]
+
+
+- title: "Motivational Factors and Educational Attainment of Software Engineers"
+  publishedIn:
+    name: Northcentral University (Doctoral Dissertation)
+    date: 2016
+    url: "https://www.researchgate.net/profile/Kevin-Eaton-4"
+  authors:
+  - name: Kevin Eaton, PhD
+    url: "https://tech.kevineaton.net"
+  paper:
+    summary: "This research examined the primary motivators of software engineers using a quantitative design with a validated survey instrument (n=1054). Educational attainment correlated significantly with Interpersonal Interactions, General Working Conditions, Empowerment, Personal Development, and Compensation. Intrinsic motivational factors were found to be more influential than extrinsic factors across all educational attainment levels."
+    url: "https://www.researchgate.net/profile/Kevin-Eaton-4"
+  categories: ["software-engineering"]
+  tags: ["Software Engineering", "Motivation", "Education", "Research"]
+
+- title: "Chaplain Access and Posttraumatic Stress Disorder Symptom Development"
+  publishedIn:
+    name: Liberty University (Master's Thesis)
+    date: 2015
+    url: "https://www.researchgate.net/profile/Kevin-Eaton-4"
+  authors:
+  - name: Kevin Eaton, PhD
+    url: "https://tech.kevineaton.net"
+  paper:
+    summary: "This research explored the relationship between chaplain interaction immediately following combat and later PTSD development. A validated PTSD measure was administered to 319 combat veterans. Chaplain access was the strongest predictor of reduced PTSD symptoms. Spirituality served as a protective factor, while religiosity correlated with greater PTSD vulnerability."
+    url: "https://www.researchgate.net/profile/Kevin-Eaton-4"
+  categories: ["psychology"]
+  tags: ["PTSD", "Chaplaincy", "Combat Veterans", "Mental Health"]

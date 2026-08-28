@@ -1,0 +1,128 @@
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: Ready Education
+    url: "https://www.readyeducation.com/en-us"
+    location: Remote
+    logo: /images/sections/experiences/ready-education-logo.jpg
+    overview: Education / EdTech
+  positions:
+  - designation: DevOps Manager; Principal Staff Backend & DevOps Engineer
+    start: 2024
+    end: Current
+    responsibilities:
+    - Manages the full Developer and Operations lifecycle for a cutting-edge education technology company that leverages cloud, AI, agentic, and local technology solutions
+    - Founded, built, and supervises a team of cross-functional engineers and administrators to ensure uptime, reliability, scalability, and security
+    - Researched, vetted, implemented, and managed several complete DevOps infrastructure and vendor relationships, with over $200,000 of vendor contract management across several interdependent technology solutions
+    - Implemented and maintained the DevOps infrastructure built upon OpenTelemetry (OTEL) using tools such as DataDog, Grafana (Loki, Grafana, Temp, and Prometheus), Sentry, and GitHub
+    - Served as the first Staff-level DevOps and Backend engineer, responsible for DevOps support, backend software development in Go and Python, mentorship, team leadership, and technical expertise across five products
+    - Worked heavily in AWS ECS, RDS, EC2, S3, and SQS to develop scalable, performant, and high-quality microservices across several verticals
+    - Utilized Terraform, Ansible, Docker, and Packer to manage systems, infrastructure, and users, including migrating several legacy custom systems to new, standards-based tooling
+    - Wrote Go, Python, and Java to solve business needs, providing notification services to end-users, delivering thousands of notifications per minute in an affordable and scalable manner
+    - Set up and maintained several observability stacks, including Loki, Grafana, Tempo, Prometheus, Signoz, and AWS-native tools while spearheading cybersecurity efforts and SOC2 compliance auditing
+    - Mentored and guided dozens of engineers across teams, products, and technical stacks
+
+
+- company:
+    name: Radio Systems Corporation
+    url: "https://www.petsafe.net"
+    location: Remote
+    logo: /images/sections/experiences/rsc.png
+    overview: IoT - Pet Tech
+  positions:
+  - designation: Product Software Architect - IoT
+    start: 2023
+    end: 2023
+    responsibilities:
+    - Recruited to be the first Product Software Architect for the IoT team, providing technical expertise and guidance in building scalable IoT solutions on AWS.
+    - Designed several scalable and secure solutions in Typescript that leveraged AWS IoT Core, DynamoDB, Lambdas, and RDS on AWS DevOps pipelines in CodeBuild and CodePipeline.
+    - Set the standards for code hygiene, best practices, security, and commonality through guidance, mentoring, and policy recommendations that enabled teams to be more effective, productive, and efficient.
+    - Oversaw three major product launches across several brands, providing technical recommendations and solutions to overcome complex challenges faced by thousands of customers.
+
+
+- company:
+    name: Wagz
+    url: "https://www.wagz.com"
+    location: Remote
+    logo: /images/sections/experiences/wagz.png
+    overview: IoT - Pet Tech - Startup
+  positions:
+  - designation: Chief Software Architect
+    start: 2017
+    end: 2023
+    responsibilities:
+    - Hired as the first technical leader and hands-on engineer to design, implement, scale, and maintain the complete technical architecture for a smart pet IoT software and hardware product ecosystem
+    - Successfully launched and scaled several hardware devices in a microservices-based software ecosystem supporting thousands of users with zero downtime or reported outages
+    - Oversaw and led the acquisition of two major competitors, integrating their hardware and software technologies into the Wagz ecosystem
+    - Implemented and maintained systems leveraging Go, Typescript, NodeJS, MySQL, MongoDB, Redis, RabbitMQ, MQTT, Docker, Ansible, Terraform, Prometheus, and Grafana on AWS
+    - Worked closely with Amazon during their initial Dash Replenishment Program implementation, successfully certifying three devices for both Alexa and Dash Replenishment
+    - Mentored and guided a team of over 15 cross-domain engineers and leaders
+
+- company:
+    name: KVSS Technologies
+    url: "https://www.kvsstechnologies.com"
+    location: Remote
+    logo: /images/sections/experiences/kvss.png
+    overview: Custom Software and Systems Engineering Consultancy
+  positions:
+  - designation: Software Engineering Consultant
+    start: 2015
+    end: 2017
+    responsibilities:
+    - Led an independent technology consultancy building scalable, secure products for companies including Texas Direct Autos, ERT, and Data Recognition Corp
+    - Successfully grew the consultancy to three additional contractors, completing over a dozen projects
+    - Implemented solutions primarily in Go, Python, NodeJS, Typescript, React, MySQL, Docker, Jenkins, Ansible, and AWS
+
+- company:
+    name: Gemr
+    url: "#"
+    location: Remote
+    logo: /images/sections/experiences/gemr.png
+    overview: E-Commerce - Startup - Consumer to Consumer
+  positions:
+  - designation: Director of Architecture
+    start: 2014
+    end: 2015
+    responsibilities:
+    - Hired as the first engineer to build a scalable technology solution for a bootstrapped e-commerce SaaS enabling user-to-user auctions, sales, and social interactions
+    - Successfully launched and grew to thousands of customers, winning awards at technical competitions
+    - Designed and implemented a solution leveraging NodeJS, MongoDB, Python, AngularJS, ELK, Jenkins, Docker, and Ansible with zero downtime
+    - Managed a team of 12 cross-functional engineers, designers, and product managers
+
+- company:
+    name: Trunity
+    url: "https://www.trunity.net"
+    location: Remote
+    logo: /images/sections/experiences/trunity.png
+    overview: EdTech - Startup
+  positions:
+  - designation: Vice President of Engineering
+    start: 2010
+    end: 2014
+    responsibilities:
+    - Hands-on engineering leader for an EdTech SaaS platform enabling users to build, customize, and sell digital articles and textbooks
+    - Primary technologies included Java, Python, NodeJS, PHP, MySQL, MongoDB, and Jenkins; scaled to thousands of customers and hundreds of authors
+    - Successfully oversaw a complicated migration from unsupported technologies to a modern API-driven platform with full DevOps, CI/CD, and cloud support
+    - Mentored a strong team of software engineers, product managers, QA engineers, and designers
+
+- company:
+    name: Central Texas College
+    url: "https://www.ctcd.edu/"
+    location: Bagram, Afghanistan
+    logo: /images/sections/experiences/ctc.png
+    overview: Education - Developer
+  positions:
+  - designation: Developer / Information Management Officer
+    start: 2007
+    end: 2007
+    responsibilities:
+    - Primary developer responsible for numerous web-based applications in a deployed environment
+    - Developed a Java EE web-based testing and scheduling application on Tomcat and Glassfish
+    - Developed a PHP/Javascript/HTML web-based content management system
+    - Developed web-based testing software using C# and .NET

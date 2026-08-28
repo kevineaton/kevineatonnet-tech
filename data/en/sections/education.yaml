@@ -1,0 +1,52 @@
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: Ph.D in Applied Computer Science and Business Administration
+  icon: fa-graduation-cap
+  institution:
+    name: Northcentral University
+    url: "https://www.nu.edu/"
+    logo: /images/sections/education/ncu.jpg
+  publications:
+  - title: Motivational Factors and Educational Attainment of Software Engineers
+    url: "https://www.researchgate.net/profile/Kevin-Eaton-4"
+
+- name: Master of Science in Information Technology Management
+  icon: fa-graduation-cap
+  institution:
+    name: Touro University International (now Trident)
+    url: "https://www.trident.edu/"
+    logo: /images/sections/education/tuiu.png
+  customSections:
+  - name: Focus
+    content: Business Intelligence, Data Analytics, and Computer Science
+
+- name: Graduate Certificate in Business Intelligence
+  icon: fa-graduation-cap
+  institution:
+    name: Touro University International (now Trident)
+    url: "https://www.trident.edu/"
+    logo: /images/sections/education/tuiu.png
+
+- name: Bachelor of Science in Computer Science
+  icon: fa-university
+  institution:
+    name: Touro University International (now Trident)
+    url: "https://www.trident.edu/"
+    logo: /images/sections/education/tuiu.png
+
+- name: Associate of Science in Technical Management
+  icon: fa-university
+  institution:
+    name: Embry Riddle Aeronautical University
+    url: "https://erau.edu/"
+    logo: /images/sections/education/erau.png
+
+- name: "+ 3 Graduate Degrees and 2 Doctorates in non-technical fields"
+  icon: fa-university

@@ -1,0 +1,91 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Software Architect, DevOps Manager, Engineer, and Educator
+company:
+  name: Ready Education / KVSS Technologies / Purdue University Global / Southern New Hampshire University 
+  url: "https://tech.kevineaton.net"
+
+summary: 'I am a technology leader with over 20 years of professional experience. I specialize in backend and fullstack engineering, DevOps, and cloud architecture. I am passionate about building reliable, scalable systems and about teaching the next generation of engineers.'
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "mailto:kevinhowardeaton@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/kevineaton"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/kevinheaton"
+
+- name: Mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mastodon.social/@kevineaton"
+  rel: "me noopener"
+
+- name: ResearchGate
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/Kevin-Eaton-4"
+
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+badges:
+- type: certification
+  name: Grafana Trailblazer Technical Practitioner 
+  url: "https://www.credly.com/badges/265b2ec7-2996-461b-949f-e207e4c0128e/public_url"
+  badge: "/images/sections/skills/grot.png"
+
+- type: certification
+  name: AWS Certified AI Practitioner - Early Adopter
+  url: "https://www.credly.com/badges/7bb467bc-1ba7-472a-a088-3cfc16f56d4f/public_url"
+  badge: "https://images.credly.com/size/680x680/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png"
+
+- type: certification
+  name: AWS Certified AI Practitioner
+  url: "https://www.credly.com/badges/bbb362d5-d803-4fbf-8835-d19e8f745d32/public_url"
+  badge: "https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png"
+
+- type: certification
+  name: Databricks Generative AI Fundamentals
+  url: "https://credentials.databricks.com/180eacdc-b044-472f-a96e-0a9816f1ea9a"
+  badge: "https://templates.images.credential.net/16859822715825555912981627624259.png"
+
+- type: certification
+  name: HashiCorp Terraform Associate
+  url: "https://www.credly.com/badges/b762d15c-8c71-4d01-bb95-42d86fb12c9e/public_url"
+  badge: "/images/sections/skills/terraform.png"
+
+- type: certification
+  name: AWS Certified Cloud Practitioner
+  url: "https://www.credly.com/badges/a8a5134b-a18a-41f6-938b-cef72e384cc2/public_url"
+  badge: "https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+
+- type: soft-skill-indicator
+  name: Leadership and Architecture
+  percentage: 100
+  color: green
+
+- type: soft-skill-indicator
+  name: Programming - Go, Python, Typescript
+  percentage: 100
+  color: green
+
+- type: soft-skill-indicator
+  name: DevOps - OTEL, Docker, Ansible, Terraform, AWS
+  percentage: 100
+  color: green
+
+- type: soft-skill-indicator
+  name: Frontend - React, Svelte, Vue
+  percentage: 85
+  color: green

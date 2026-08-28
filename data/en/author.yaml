@@ -1,0 +1,14 @@
+name: "Kevin Eaton, PhD"
+nickname: "Kevin Eaton"
+greeting: "Welcome! I am"
+image: "/images/author/kevin.jpg"
+contactInfo:
+  email: "kevinhowardeaton@gmail.com"
+  github: kevineaton
+  linkedin: kevinheaton
+
+summary:
+  - I am a Technology Leader and Software Architect
+  - I specialize in backend engineering and DevOps
+  - I love fullstack engineering and good challenges
+  - I teach Computer Science at the university level

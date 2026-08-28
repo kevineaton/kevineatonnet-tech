@@ -1,0 +1,9 @@
+{
+  "name": "kevineatonnet-tech",
+  "version": "1.0.0",
+  "dependencies": {
+    "@fontsource/mulish": "4.5.0",
+    "flag-icon-css": "3.5.0",
+    "katex": "0.15.2"
+  }
+}

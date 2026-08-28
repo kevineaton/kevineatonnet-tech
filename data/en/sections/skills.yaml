@@ -1,0 +1,67 @@
+section:
+  name: Primary Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+- name: Go
+  logo: /images/sections/skills/go.png
+  summary: "Used heavily for backend API development, media management, and scripting."
+
+- name: Python
+  logo: /images/sections/skills/python.jpg
+  summary: "Used for scripting, SDK integrations, and AI/ML programming."
+
+- name: Typescript / Javascript / NodeJS
+  logo: /images/sections/skills/typescript.jpg
+  summary: "Used heavily for API development (NodeJS/Express) and web development (Svelte and React/React Native)."
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "My preferred deployment methodology. Used heavily throughout the full DevOps and engineering stack."
+
+- name: Ansible
+  logo: /images/sections/skills/ansible.jpg
+  summary: "Used to configure targets with needed libraries, patches, and Docker components."
+
+- name: Terraform
+  logo: /images/sections/skills/terraform.jpg
+  summary: "My preferred Infrastructure as Code tool. Used to manage infrastructure on AWS, Digital Ocean, and self-hosted Linux servers."
+
+- name: Prometheus
+  logo: /images/sections/skills/prometheus.png
+  summary: "Used for server and service monitoring, scraping, and metric collection."
+
+- name: Grafana
+  logo: /images/sections/skills/grafana.png
+  summary: "Used to display system status and metrics collected from Prometheus and other services."
+
+- name: OpenTelemetry
+  logo: /images/sections/skills/ot.png
+  summary: "Used for API observability, monitoring, and Application Performance Management."
+
+- name: MySQL / MariaDB / Aurora
+  logo: /images/sections/skills/mysql.jpg
+  summary: "My go-to database system, used heavily across most backend and fullstack projects."
+
+- name: Redis
+  logo: /images/sections/skills/redis.jpg
+  summary: "My go-to in-memory caching tool, used across most backend APIs."
+
+- name: RabbitMQ
+  logo: /images/sections/skills/rabbit.jpg
+  summary: "Used for message queuing, event processing, and burst handling."
+
+- name: AWS
+  logo: /images/sections/skills/aws.png
+  summary: "Extensive experience with EC2, S3, IoT Core, Lambda, CloudFront, RDS, DynamoDB, ECS, SQS, and CodePipeline."
+
+- name: Digital Ocean
+  logo: /images/sections/skills/do.png
+  summary: "Used for Droplets, managed MySQL instances, networking, and container registry."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "My preferred platform for development and server operations. Comfortable on the command line and with system administration."

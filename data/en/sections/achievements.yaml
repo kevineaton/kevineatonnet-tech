@@ -1,0 +1,6 @@
+section:
+  name: Achievements
+  id: achievements
+  enable: false
+  weight: 6
+  showOnNavbar: false
