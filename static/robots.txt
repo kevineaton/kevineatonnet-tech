@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /posts/
+Disallow: /notes/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /search/
+
+Sitemap: https://tech.kevineaton.net/sitemap.xml
