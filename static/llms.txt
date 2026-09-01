@@ -1,0 +1,18 @@
+# Kevin Eaton - Technology
+
+> Kevin Eaton, PhD is a Chief Software Architect / Principal Staff Backend DevOps Engineer with 20+ years of experience in backend engineering, DevOps, and fullstack development. He also teaches Computer Science at the university level.
+
+This site covers his technology background: skills, professional experience, education, and publications.
+
+## More about Kevin Eaton
+
+- [Hub / all sites](https://kevineaton.net): Links to all of Kevin's professional sites.
+- [Military](https://military.kevineaton.net): US Army Reserve service as a Chaplain (Lieutenant Colonel).
+- [Academia](https://academia.kevineaton.net): University teaching experience and academic publications.
+- [Martial Arts](https://martialarts.kevineaton.net): Taekwondo, Tangsoodo, Shotokan Karate, and weapons training.
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/kevinheaton)
+- [GitHub](https://github.com/kevineaton)
+- [Mastodon](https://mastodon.social/@kevineaton)
