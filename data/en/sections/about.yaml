@@ -6,7 +6,7 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Software Architect, DevOps Manager, Engineer, and Educator
+designation: Software Architect, DevOps Manager, Observability Professional, Software Engineer, and Educator
 company:
   name: Ready Education / KVSS Technologies / Purdue University Global / Southern New Hampshire University 
   url: "https://tech.kevineaton.net"
@@ -66,6 +66,36 @@ badges:
   badge: "https://templates.images.credential.net/16859822715825555912981627624259.png"
 
 - type: certification
+  name: Purdue AI Microcredential 
+  url: "https://www.credly.com/badges/5647092e-7595-4bed-b190-f7d1955190aa/public_url"
+  badge: "/images/sections/skills/purdue_ai.png"
+
+- type: certification
+  name: Google Cybersecurity Professional
+  url: "https://www.credly.com/badges/9f4432d9-245a-48f0-9cb5-77f27e678781/public_url"
+  badge: "/images/sections/skills/google_cyber.png"
+
+- type: certification
+  name: Grafana Navigator - Observability Signals
+  url: "https://www.credly.com/badges/d7e4c0ed-5b82-4cf4-bb4c-a138cc9c2e8c/public_url"
+  badge: "/images/sections/skills/grafana_navigator_signals.png"
+
+- type: certification
+  name: Grafana Navigator - Dashboard Design & Visual Storytelling
+  url: "https://www.credly.com/badges/b2d91f94-cc44-470a-b14f-a7dca8a7078b/public_url"
+  badge: "/images/sections/skills/grafana_navigator_dashboards.png"
+
+- type: certification
+  name: Grafana Navigator - LogQL
+  url: "https://www.credly.com/badges/5b888430-f462-43bb-9555-9f987d2f8948/public_url"
+  badge: "/images/sections/skills/grafana_navigator_logql.png"
+
+- type: certification
+  name: Grafana Navigator - PromQL
+  url: "https://www.credly.com/badges/ce301863-302e-4772-8ea8-ed0b172d693c/public_url"
+  badge: "/images/sections/skills/grafana_navigator_promql.png"
+
+- type: certification
   name: HashiCorp Terraform Associate
   url: "https://www.credly.com/badges/b762d15c-8c71-4d01-bb95-42d86fb12c9e/public_url"
   badge: "/images/sections/skills/terraform_associate.png"
@@ -75,22 +105,22 @@ badges:
   url: "https://www.credly.com/badges/a8a5134b-a18a-41f6-938b-cef72e384cc2/public_url"
   badge: "https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
 
-- type: soft-skill-indicator
-  name: Leadership and Architecture
-  percentage: 100
-  color: green
+# - type: soft-skill-indicator
+#   name: Leadership and Architecture
+#   percentage: 100
+#   color: green
 
-- type: soft-skill-indicator
-  name: Programming - Go, Python, Typescript
-  percentage: 100
-  color: green
+# - type: soft-skill-indicator
+#   name: Programming - Go, Python, Typescript
+#   percentage: 100
+#   color: green
 
-- type: soft-skill-indicator
-  name: DevOps - OTEL, Docker, Ansible, Terraform, AWS
-  percentage: 100
-  color: green
+# - type: soft-skill-indicator
+#   name: DevOps - OTEL, Docker, Ansible, Terraform, AWS
+#   percentage: 100
+#   color: green
 
-- type: soft-skill-indicator
-  name: Frontend - React, Svelte, Vue
-  percentage: 85
-  color: green
+# - type: soft-skill-indicator
+#   name: Frontend - React, Svelte, Vue
+#   percentage: 85
+#   color: green
