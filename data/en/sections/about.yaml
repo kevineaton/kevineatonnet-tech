@@ -41,9 +41,14 @@ resourceLinks:
 
 badges:
 - type: certification
+  name: Grafana Explorer Technical Practitioner 
+  url: "https://www.credly.com/badges/0d2ebda2-2a99-4b94-adae-315f5fab47f3/public_url"
+  badge: "/images/sections/skills/grafana_explorer.png"
+
+- type: certification
   name: Grafana Trailblazer Technical Practitioner 
   url: "https://www.credly.com/badges/265b2ec7-2996-461b-949f-e207e4c0128e/public_url"
-  badge: "/images/sections/skills/grot.png"
+  badge: "/images/sections/skills/grafana_trail.png"
 
 - type: certification
   name: AWS Certified AI Practitioner - Early Adopter
@@ -63,7 +68,7 @@ badges:
 - type: certification
   name: HashiCorp Terraform Associate
   url: "https://www.credly.com/badges/b762d15c-8c71-4d01-bb95-42d86fb12c9e/public_url"
-  badge: "/images/sections/skills/terraform.png"
+  badge: "/images/sections/skills/terraform_associate.png"
 
 - type: certification
   name: AWS Certified Cloud Practitioner
